@@ -2,7 +2,7 @@
  
  ### Clonar el proyecto 
  
- - Ejecutando el siguiente comando git clone https://github.com/achita-10/spaax.git
+ - Ejecutando el siguiente comando: git clone https://github.com/achita-10/spaax.git
  
  ### Activar DOMPDF 
  - Ejecutar en la carpeta public_html el comando: composer require dompdf/dompdf
